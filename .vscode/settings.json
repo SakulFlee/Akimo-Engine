@@ -1,6 +1,31 @@
 {
     "cSpell.words": [
         "akimo",
-        "Akimo"
+        "bytemuck",
+        "cgmath",
+        "fovy",
+        "fullscreen",
+        "Fullscreen",
+        "humantime",
+        "millihertz",
+        "mipmap",
+        "multisample",
+        "multisampled",
+        "multiview",
+        "renderable",
+        "renderables",
+        "repr",
+        "rustfmt",
+        "texcoords",
+        "tobj",
+        "tokio",
+        "Unorm",
+        "updateable",
+        "wgpu",
+        "wgsl",
+        "winit",
+        "Zeroable",
+        "zfar",
+        "znear"
     ]
 }
