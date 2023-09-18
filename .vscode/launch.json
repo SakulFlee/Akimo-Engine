@@ -15,7 +15,7 @@
                 "RUST_BACKTRACE": "0"
             },
             "cwd": "${workspaceFolder}",
-            "preLaunchTask": "Debug Build",
+            "preLaunchTask": "Debug Build Examples",
             "sourceLanguages": [
                 "rust"
             ]
@@ -50,7 +50,7 @@
                 "RUST_BACKTRACE": "0"
             },
             "cwd": "${workspaceFolder}",
-            "preLaunchTask": "Debug Build",
+            "preLaunchTask": "Debug Build Examples",
             "sourceLanguages": [
                 "rust"
             ],

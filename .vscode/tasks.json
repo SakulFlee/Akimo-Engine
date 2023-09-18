@@ -2,7 +2,19 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Debug Build",
+            "label": "Debug Build Examples",
+            "command": "cargo build --examples",
+            "type": "shell",
+            "problemMatcher": [
+                "$rustc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Debug Build Akimo-Engine",
             "command": "cargo build --package akimo_engine",
             "type": "shell",
             "problemMatcher": [
@@ -14,7 +26,7 @@
             }
         },
         {
-            "label": "Release Build",
+            "label": "Release Build Akimo-Engine",
             "command": "cargo build --release --package akimo_engine",
             "type": "shell",
             "problemMatcher": [
