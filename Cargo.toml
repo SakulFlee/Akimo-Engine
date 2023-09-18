@@ -1,5 +1,3 @@
 [workspace]
-members = [
-    "platform/*",
-    "shared"
-]
+resolver = "2"
+members = ["crates/*"]
